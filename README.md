@@ -23,5 +23,9 @@ https://github.com/cubejun/rasbian.bullseye.ros2.foxy/assets/133946040/817d894f-
 
 
 # 젯슨나노와의 통신
-https://github.com/cubejun/rasbian.bullseye.ros2.foxy/assets/133946040/d0e8db63-38aa-41ca-b6ec-bcad6ce0ab01
+
+
+https://github.com/cubejun/rasbian.bullseye.ros2.foxy/assets/133946040/729c99d6-7901-4ec5-bbc7-71eafd33610b
+
+
 
